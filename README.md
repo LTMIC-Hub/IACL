@@ -9,7 +9,7 @@
 - Linux support
 - python 3.8
 - PyTorch 1.13.1
-- torchvision 0.10.0
+- torchvision 0.14.1
 
 ## Training
 To train the model(s) in the paper, run this command:
