@@ -6,7 +6,7 @@
 
 
 ## Requirements
-- Linux both support
+- Linux support
 - python 3.8
 - PyTorch 1.13.1
 - torchvision 0.10.0
